@@ -7,10 +7,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FFB7B2&center=true&vCenter=true&width=450&lines=Full-Stack+Developer+%F0%9F%92%BB;CTF+Player+%F0%9F%9A%A9;Web+Vulnerability+Hunter+%F0%9F%94%8D" alt="Typing SVG" />
 </div>
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/amarararerero/count.svg" alt="Visitor Count" />
-</div>
-
 <br />
 
 <!-- About Me -->
