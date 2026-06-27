@@ -40,12 +40,6 @@ I also passionate about system penetration testing . I spend my free time solvin
 ## Statistics
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=amarararerero&theme=unicorn&column=7" alt="Github Trophies" />
-</div>
-
-<br />
-
-<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=amarararerero&show_icons=true&theme=transparent&hide_border=true&title_color=FFB7B2&text_color=C7CEEA&icon_color=FFD6A5" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amarararerero&layout=compact&theme=transparent&hide_border=true&title_color=FFB7B2&text_color=C7CEEA" alt="Top Languages"/>
 </div>
